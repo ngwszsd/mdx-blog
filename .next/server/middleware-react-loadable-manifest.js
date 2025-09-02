@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST='{"node_modules/pliny/chunk-LGRWOOGP.js -> @docsearch/react":{"id":"node_modules/pliny/chunk-LGRWOOGP.js -> @docsearch/react","files":[]}}';
