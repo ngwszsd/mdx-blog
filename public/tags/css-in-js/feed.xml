@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Lapidix Dev</title>
+      <link>https://lapidix.dev/blog</link>
+      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <language>ko</language>
+      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
+      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <lastBuildDate>Thu, 14 Aug 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://lapidix.dev/tags/css-in-js/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://lapidix.dev/posts/tailwindcss-and-emotion-internals</guid>
+    <title>현대 CSS 전략의 두 가지 관점 (with Tailwindcss, Emotion)</title>
+    <link>https://lapidix.dev/posts/tailwindcss-and-emotion-internals</link>
+    <description>현대 CSS를 대표하는 두 패러다임, 정적 방식인 TailwindCSS와 동적 방식인 Emotion의 내부 구현을 비교 분석합니다. 소스코드 기반으로 각 접근법의 동작 원리와 기술적 트레이드오프를 알아봅니다.</description>
+    <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>Frontend</category><category>Tailwindcss</category><category>Emotion</category><category>JIT</category><category>CSS-in-JS</category><category>CSS</category>
+  </item>
+
+    </channel>
+  </rss>

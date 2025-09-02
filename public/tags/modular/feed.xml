@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Lapidix Dev</title>
+      <link>https://lapidix.dev/blog</link>
+      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <language>ko</language>
+      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
+      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <lastBuildDate>Mon, 18 Apr 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://lapidix.dev/tags/modular/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://lapidix.dev/posts/cryptography-modular</guid>
+    <title>What is Modular Arithmetic</title>
+    <link>https://lapidix.dev/posts/cryptography-modular</link>
+    <description>보안을 위한 세 가지 요소와 CIA</description>
+    <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>Cryptography</category><category>modular</category>
+  </item>
+
+    </channel>
+  </rss>

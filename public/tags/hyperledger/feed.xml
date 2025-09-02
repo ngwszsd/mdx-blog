@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Lapidix Dev</title>
+      <link>https://lapidix.dev/blog</link>
+      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <language>ko</language>
+      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
+      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <lastBuildDate>Sun, 04 Jun 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://lapidix.dev/tags/hyperledger/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://lapidix.dev/posts/apply-hyperledger-aries-cloud-agent</guid>
+    <title>Apply Hyperledger Aries Cloud Agent</title>
+    <link>https://lapidix.dev/posts/apply-hyperledger-aries-cloud-agent</link>
+    <description>Hyperledger ACA-Py를 사용하여 DID를 생성하고, Verifiable Credential을 발급받는 과정을 정리합니다.</description>
+    <pubDate>Sun, 04 Jun 2023 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>HyperLedger</category><category>Aries</category><category>DID</category><category>ACA</category>
+  </item>
+
+  <item>
+    <guid>https://lapidix.dev/posts/apply-hyperledger-indy-tails-server</guid>
+    <title>Apply Hyperledger Indy Tails Server</title>
+    <link>https://lapidix.dev/posts/apply-hyperledger-indy-tails-server</link>
+    <description>Hyperledger Indy Tails Server를 사용하여 revocation registry delta(회수 레지스트리 델타)의 크기를 줄이는 데 도움이 되는 기능을 사용해봅니다.</description>
+    <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>HyperLedger</category><category>Indy</category><category>DID</category><category>Tails file</category>
+  </item>
+
+  <item>
+    <guid>https://lapidix.dev/posts/apply-hyperledger-von</guid>
+    <title>Apply Hyperledger VON</title>
+    <link>https://lapidix.dev/posts/apply-hyperledger-von</link>
+    <description>Hyperledger VON (Verifiable Organizations Networks) 신원 정보를 관리하고 검증할 수 있는 탈중앙화 분산 신원 시스템을 구축하기 위한 오픈 소스 프로젝트실행</description>
+    <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>HyperLedger</category><category>VON</category><category>DID</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Lapidix Dev</title>
+      <link>https://lapidix.dev/blog</link>
+      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <language>ko</language>
+      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
+      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <lastBuildDate>Sat, 01 Jul 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://lapidix.dev/tags/dco/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://lapidix.dev/posts/contribute-dco</guid>
+    <title>Contribute &amp; DCO</title>
+    <link>https://lapidix.dev/posts/contribute-dco</link>
+    <description>많은 고민 끝에 오픈소스 프로젝트에 PR을 날려 봤으나 처음 날린 PR은 &quot;DCO를 적용해 주시겠습니까?&quot; 라는 멘트와 함께 약간의 시간이 지난 후 닫혀버렸습니다.. 그래서 DCO가 뭐길래...</description>
+    <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>DCO</category><category>Contribute</category><category>git</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Lapidix Dev</title>
+      <link>https://lapidix.dev/blog</link>
+      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <language>ko</language>
+      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
+      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <lastBuildDate>Wed, 27 Apr 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://lapidix.dev/tags/asymmetrickey/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://lapidix.dev/posts/cryptography-asymmetric-key</guid>
+    <title>비대칭키 암호와 RSA, ECC</title>
+    <link>https://lapidix.dev/posts/cryptography-asymmetric-key</link>
+    <description>비대칭키 암호와 RSA, ECC</description>
+    <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>Cryptography</category><category>AsymmetricKey</category><category>RSA</category><category>ECC</category>
+  </item>
+
+    </channel>
+  </rss>

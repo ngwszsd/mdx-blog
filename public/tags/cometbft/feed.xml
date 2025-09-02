@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Lapidix Dev</title>
+      <link>https://lapidix.dev/blog</link>
+      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <language>ko</language>
+      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
+      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <lastBuildDate>Sun, 23 Jul 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://lapidix.dev/tags/cometbft/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://lapidix.dev/posts/cosmos-cometbft</guid>
+    <title>What is CometBFT?</title>
+    <link>https://lapidix.dev/posts/cosmos-cometbft</link>
+    <description>CometBFT와 앞으로 Cosmos를 공부하면서 알아야한 개념 및 기술들에 대해 알아보았다 😏</description>
+    <pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>Cosmos-network</category><category>CometBFT</category><category>gRPC</category><category>protobuf</category>
+  </item>
+
+  <item>
+    <guid>https://lapidix.dev/posts/cosmos-intro</guid>
+    <title>What is Cosmos?</title>
+    <link>https://lapidix.dev/posts/cosmos-intro</link>
+    <description>AppChain과 AppChain 생태계 중 대표적인 Cosmos Ecosystem에 대하여</description>
+    <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>Cosmos-network</category><category>CometBFT</category><category>IBC</category>
+  </item>
+
+  <item>
+    <guid>https://lapidix.dev/posts/ibc-relayer</guid>
+    <title>IBC Relayer</title>
+    <link>https://lapidix.dev/posts/ibc-relayer</link>
+    <description>AppChain과 AppChain 생태계 중 대표적인 Cosmos Ecosystem에 대하여</description>
+    <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>Cosmos-network</category><category>CometBFT</category><category>IBC</category><category>Hermes</category><category>Relayer</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Lapidix Dev</title>
+      <link>https://lapidix.dev/blog</link>
+      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <language>ko</language>
+      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
+      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <lastBuildDate>Mon, 23 May 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://lapidix.dev/tags/utxo/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://lapidix.dev/posts/bitcoin</guid>
+    <title>About Bitcoin Basic</title>
+    <link>https://lapidix.dev/posts/bitcoin</link>
+    <description>Satishi Nakamoto가 2009년 발표한 대표적인 Public BlockChain 시스템인 Bitcoin에 대해 알아봅니다!</description>
+    <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>Bitcoin</category><category>UTXO</category>
+  </item>
+
+    </channel>
+  </rss>

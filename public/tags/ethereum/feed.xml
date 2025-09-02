@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Lapidix Dev</title>
+      <link>https://lapidix.dev/blog</link>
+      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <language>ko</language>
+      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
+      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <lastBuildDate>Sat, 04 Jun 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://lapidix.dev/tags/ethereum/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://lapidix.dev/posts/ethereum</guid>
+    <title>About Ethereum Basic</title>
+    <link>https://lapidix.dev/posts/ethereum</link>
+    <description>Ethereum에 대한 기본적인 것들을 정리해보았습니다. 🥲</description>
+    <pubDate>Sat, 04 Jun 2022 00:00:00 GMT</pubDate>
+    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <category>Ethereum</category>
+  </item>
+
+    </channel>
+  </rss>
