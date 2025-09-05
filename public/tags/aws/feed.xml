@@ -2,21 +2,21 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Lapidix Dev</title>
-      <link>https://lapidix.dev/blog</link>
-      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <link>https://garvin.netlify.app/blog</link>
+      <description>Technical blog by ngw covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
       <language>ko</language>
-      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
-      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <managingEditor>ngwszsd@qq.com (ngw)</managingEditor>
+      <webMaster>ngwszsd@qq.com (ngw)</webMaster>
       <lastBuildDate>Wed, 18 Jun 2025 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://lapidix.dev/tags/aws/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://garvin.netlify.app/tags/aws/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://lapidix.dev/posts/vercel-and-aws</guid>
+    <guid>https://garvin.netlify.app/posts/vercel-and-aws</guid>
     <title>Vercel과 AWS, 왜 나는 Vercel을 쓸까?</title>
-    <link>https://lapidix.dev/posts/vercel-and-aws</link>
+    <link>https://garvin.netlify.app/posts/vercel-and-aws</link>
     <description> AWS와 Vercel의 정적 웹사이트 배포 방식을 비교해 각각의 특징과 차이를 쉽게 정리해봅니다.</description>
     <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Vercel</category><category>AWS</category><category>CloudFront</category><category>Frontend</category>
   </item>
 

@@ -2,21 +2,21 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Lapidix Dev</title>
-      <link>https://lapidix.dev/blog</link>
-      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <link>https://garvin.netlify.app/blog</link>
+      <description>Technical blog by ngw covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
       <language>ko</language>
-      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
-      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <managingEditor>ngwszsd@qq.com (ngw)</managingEditor>
+      <webMaster>ngwszsd@qq.com (ngw)</webMaster>
       <lastBuildDate>Wed, 20 Sep 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://lapidix.dev/tags/node-cli/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://garvin.netlify.app/tags/node-cli/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-run-a-node</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-run-a-node</guid>
     <title>Run a Node, API and CLI</title>
-    <link>https://lapidix.dev/posts/cosmos-run-a-node</link>
+    <link>https://garvin.netlify.app/posts/cosmos-run-a-node</link>
     <description>오늘은 Run a Node, API and CLI파트에 대해서 정리해 왔습니다!! :)</description>
     <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>Node CLI</category>
   </item>
 

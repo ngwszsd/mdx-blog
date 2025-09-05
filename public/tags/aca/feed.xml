@@ -2,21 +2,21 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Lapidix Dev</title>
-      <link>https://lapidix.dev/blog</link>
-      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <link>https://garvin.netlify.app/blog</link>
+      <description>Technical blog by ngw covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
       <language>ko</language>
-      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
-      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <managingEditor>ngwszsd@qq.com (ngw)</managingEditor>
+      <webMaster>ngwszsd@qq.com (ngw)</webMaster>
       <lastBuildDate>Sun, 04 Jun 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://lapidix.dev/tags/aca/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://garvin.netlify.app/tags/aca/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://lapidix.dev/posts/apply-hyperledger-aries-cloud-agent</guid>
+    <guid>https://garvin.netlify.app/posts/apply-hyperledger-aries-cloud-agent</guid>
     <title>Apply Hyperledger Aries Cloud Agent</title>
-    <link>https://lapidix.dev/posts/apply-hyperledger-aries-cloud-agent</link>
+    <link>https://garvin.netlify.app/posts/apply-hyperledger-aries-cloud-agent</link>
     <description>Hyperledger ACA-Py를 사용하여 DID를 생성하고, Verifiable Credential을 발급받는 과정을 정리합니다.</description>
     <pubDate>Sun, 04 Jun 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>HyperLedger</category><category>Aries</category><category>DID</category><category>ACA</category>
   </item>
 

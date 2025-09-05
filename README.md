@@ -15,4 +15,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**Contact**: [mingi3442@gmail.com](mailto:mingi3442@gmail.com) • [GitHub](https://github.com/lapidix)
+**Contact**: [ngwszsd@qq.com](mailto:ngwszsd@qq.com) • [GitHub](https://github.com/ngwszsd)

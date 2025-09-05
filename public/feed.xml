@@ -1,292 +1,292 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Lapidix Dev</title>
-      <link>https://lapidix.dev/blog</link>
-      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <title>Garvin Dev</title>
+      <link>https://garvin.netlify.app/blog</link>
+      <description>Technical blog by ngw covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
       <language>ko</language>
-      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
-      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <managingEditor>ngwszsd@qq.com (ngw)</managingEditor>
+      <webMaster>ngwszsd@qq.com (ngw)</webMaster>
       <lastBuildDate>Thu, 14 Aug 2025 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://lapidix.dev/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://garvin.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://lapidix.dev/posts/tailwindcss-and-emotion-internals</guid>
+    <guid>https://garvin.netlify.app/posts/tailwindcss-and-emotion-internals</guid>
     <title>현대 CSS 전략의 두 가지 관점 (with Tailwindcss, Emotion)</title>
-    <link>https://lapidix.dev/posts/tailwindcss-and-emotion-internals</link>
+    <link>https://garvin.netlify.app/posts/tailwindcss-and-emotion-internals</link>
     <description>현대 CSS를 대표하는 두 패러다임, 정적 방식인 TailwindCSS와 동적 방식인 Emotion의 내부 구현을 비교 분석합니다. 소스코드 기반으로 각 접근법의 동작 원리와 기술적 트레이드오프를 알아봅니다.</description>
     <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Frontend</category><category>Tailwindcss</category><category>Emotion</category><category>JIT</category><category>CSS-in-JS</category><category>CSS</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/fsd-ddd-clean-architecture</guid>
+    <guid>https://garvin.netlify.app/posts/fsd-ddd-clean-architecture</guid>
     <title>Frontend Clean Architecture (with FSD &amp; DDD)</title>
-    <link>https://lapidix.dev/posts/fsd-ddd-clean-architecture</link>
+    <link>https://garvin.netlify.app/posts/fsd-ddd-clean-architecture</link>
     <description>Frontend에서 FSD(Feature Sliced Design)와 DDD(Domain-Driven Design)를 적용하여 Clean Architecture를 구현하기 위한 방법에 대해서 알아봅니다.</description>
     <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Clean Architecture</category><category>Frontend</category><category>FSD</category><category>DDD</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/vercel-and-aws</guid>
+    <guid>https://garvin.netlify.app/posts/vercel-and-aws</guid>
     <title>Vercel과 AWS, 왜 나는 Vercel을 쓸까?</title>
-    <link>https://lapidix.dev/posts/vercel-and-aws</link>
+    <link>https://garvin.netlify.app/posts/vercel-and-aws</link>
     <description> AWS와 Vercel의 정적 웹사이트 배포 방식을 비교해 각각의 특징과 차이를 쉽게 정리해봅니다.</description>
     <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Vercel</category><category>AWS</category><category>CloudFront</category><category>Frontend</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/opstra-trouble-shooting</guid>
+    <guid>https://garvin.netlify.app/posts/opstra-trouble-shooting</guid>
     <title>CosmosSDK Testnet 구성 트러블슈팅</title>
-    <link>https://lapidix.dev/posts/opstra-trouble-shooting</link>
+    <link>https://garvin.netlify.app/posts/opstra-trouble-shooting</link>
     <description>Cosmos SDK를 이용한 커스텀 네트워크 프로젝트의 테스트 넷을 구성하는 과정에서 발생한 트러블 슈팅들과 해결과정을 정리해 보았습니다.</description>
     <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Validator</category><category>COSMOS-SDK</category><category>Trouble-shooting</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-address</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-address</guid>
     <title>Cosmos Ecosystem의 Address</title>
-    <link>https://lapidix.dev/posts/cosmos-address</link>
+    <link>https://garvin.netlify.app/posts/cosmos-address</link>
     <description>Cosmos 생태계에서 사용하는 주소체계 및 주소를 변환하는 방법에 대해서 알아봅니다</description>
     <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos</category><category>Cosmos-network</category><category>Validator</category><category>COSMOS-SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/ibc-relayer</guid>
+    <guid>https://garvin.netlify.app/posts/ibc-relayer</guid>
     <title>IBC Relayer</title>
-    <link>https://lapidix.dev/posts/ibc-relayer</link>
+    <link>https://garvin.netlify.app/posts/ibc-relayer</link>
     <description>AppChain과 AppChain 생태계 중 대표적인 Cosmos Ecosystem에 대하여</description>
     <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>CometBFT</category><category>IBC</category><category>Hermes</category><category>Relayer</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/rpc-grpc</guid>
+    <guid>https://garvin.netlify.app/posts/rpc-grpc</guid>
     <title>Remote Procedure Call &amp; gRPC</title>
-    <link>https://lapidix.dev/posts/rpc-grpc</link>
+    <link>https://garvin.netlify.app/posts/rpc-grpc</link>
     <description>RPC와 gRPC에 대해 알아봅니다 😀</description>
     <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>rpc</category><category>gRPC</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/ignite-blog-in-depth-tutorial</guid>
+    <guid>https://garvin.netlify.app/posts/ignite-blog-in-depth-tutorial</guid>
     <title>[Cosmos] Ignite CLI Tutorial (2)</title>
-    <link>https://lapidix.dev/posts/ignite-blog-in-depth-tutorial</link>
+    <link>https://garvin.netlify.app/posts/ignite-blog-in-depth-tutorial</link>
     <description>Ignite CLI Tutorial에 대한 두 번째 내용 실습 및 정리 글입니다.</description>
     <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos</category><category>Ignite</category><category>Cosmos SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/ignite-blog-express-tutorial</guid>
+    <guid>https://garvin.netlify.app/posts/ignite-blog-express-tutorial</guid>
     <title>[Cosmos] Ignite CLI Tutorial (1)</title>
-    <link>https://lapidix.dev/posts/ignite-blog-express-tutorial</link>
+    <link>https://garvin.netlify.app/posts/ignite-blog-express-tutorial</link>
     <description>Ignite CLI Tutorial에 대한 첫 번째 내용 실습 및 정리 글입니다.</description>
     <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos</category><category>Ignite</category><category>Cosmos SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/ignite-introduction</guid>
+    <guid>https://garvin.netlify.app/posts/ignite-introduction</guid>
     <title>[Cosmos] Ignite CLI Introduction</title>
-    <link>https://lapidix.dev/posts/ignite-introduction</link>
+    <link>https://garvin.netlify.app/posts/ignite-introduction</link>
     <description>Cosmos SDK를 기반으로 하는 블록체인을 위한 개발자 친화적인 CLI 플랫폼인 Ignite CLI에 대하여 알아보겠습니다.</description>
     <pubDate>Sun, 24 Dec 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos</category><category>Ignite</category><category>Cosmos SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-join-test-network</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-join-test-network</guid>
     <title>Join the Test network With Archway</title>
-    <link>https://lapidix.dev/posts/cosmos-join-test-network</link>
+    <link>https://garvin.netlify.app/posts/cosmos-join-test-network</link>
     <description>Cosmos Network에 올라가있는 테스트 네트워크에 참여해봅니다 😀😀</description>
     <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>Archway</category><category>PingPub</category><category>Polkachu</category><category>Cosmos</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-run-a-node</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-run-a-node</guid>
     <title>Run a Node, API and CLI</title>
-    <link>https://lapidix.dev/posts/cosmos-run-a-node</link>
+    <link>https://garvin.netlify.app/posts/cosmos-run-a-node</link>
     <description>오늘은 Run a Node, API and CLI파트에 대해서 정리해 왔습니다!! :)</description>
     <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>Node CLI</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-sdk-modules</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-sdk-modules</guid>
     <title>About Cosmos SDK &amp; Modules</title>
-    <link>https://lapidix.dev/posts/cosmos-sdk-modules</link>
+    <link>https://garvin.netlify.app/posts/cosmos-sdk-modules</link>
     <description>Cosmos SDK &amp; Modules에 대해 꾸역꾸역,.,,, 알아보자........😭😭</description>
     <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>Cosmos SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-cometbft</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-cometbft</guid>
     <title>What is CometBFT?</title>
-    <link>https://lapidix.dev/posts/cosmos-cometbft</link>
+    <link>https://garvin.netlify.app/posts/cosmos-cometbft</link>
     <description>CometBFT와 앞으로 Cosmos를 공부하면서 알아야한 개념 및 기술들에 대해 알아보았다 😏</description>
     <pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>CometBFT</category><category>gRPC</category><category>protobuf</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-intro</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-intro</guid>
     <title>What is Cosmos?</title>
-    <link>https://lapidix.dev/posts/cosmos-intro</link>
+    <link>https://garvin.netlify.app/posts/cosmos-intro</link>
     <description>AppChain과 AppChain 생태계 중 대표적인 Cosmos Ecosystem에 대하여</description>
     <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>CometBFT</category><category>IBC</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/contribute-dco</guid>
+    <guid>https://garvin.netlify.app/posts/contribute-dco</guid>
     <title>Contribute &amp; DCO</title>
-    <link>https://lapidix.dev/posts/contribute-dco</link>
+    <link>https://garvin.netlify.app/posts/contribute-dco</link>
     <description>많은 고민 끝에 오픈소스 프로젝트에 PR을 날려 봤으나 처음 날린 PR은 &quot;DCO를 적용해 주시겠습니까?&quot; 라는 멘트와 함께 약간의 시간이 지난 후 닫혀버렸습니다.. 그래서 DCO가 뭐길래...</description>
     <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>DCO</category><category>Contribute</category><category>git</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/apply-hyperledger-aries-cloud-agent</guid>
+    <guid>https://garvin.netlify.app/posts/apply-hyperledger-aries-cloud-agent</guid>
     <title>Apply Hyperledger Aries Cloud Agent</title>
-    <link>https://lapidix.dev/posts/apply-hyperledger-aries-cloud-agent</link>
+    <link>https://garvin.netlify.app/posts/apply-hyperledger-aries-cloud-agent</link>
     <description>Hyperledger ACA-Py를 사용하여 DID를 생성하고, Verifiable Credential을 발급받는 과정을 정리합니다.</description>
     <pubDate>Sun, 04 Jun 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>HyperLedger</category><category>Aries</category><category>DID</category><category>ACA</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/apply-hyperledger-indy-tails-server</guid>
+    <guid>https://garvin.netlify.app/posts/apply-hyperledger-indy-tails-server</guid>
     <title>Apply Hyperledger Indy Tails Server</title>
-    <link>https://lapidix.dev/posts/apply-hyperledger-indy-tails-server</link>
+    <link>https://garvin.netlify.app/posts/apply-hyperledger-indy-tails-server</link>
     <description>Hyperledger Indy Tails Server를 사용하여 revocation registry delta(회수 레지스트리 델타)의 크기를 줄이는 데 도움이 되는 기능을 사용해봅니다.</description>
     <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>HyperLedger</category><category>Indy</category><category>DID</category><category>Tails file</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/apply-hyperledger-von</guid>
+    <guid>https://garvin.netlify.app/posts/apply-hyperledger-von</guid>
     <title>Apply Hyperledger VON</title>
-    <link>https://lapidix.dev/posts/apply-hyperledger-von</link>
+    <link>https://garvin.netlify.app/posts/apply-hyperledger-von</link>
     <description>Hyperledger VON (Verifiable Organizations Networks) 신원 정보를 관리하고 검증할 수 있는 탈중앙화 분산 신원 시스템을 구축하기 위한 오픈 소스 프로젝트실행</description>
     <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>HyperLedger</category><category>VON</category><category>DID</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/ethereum</guid>
+    <guid>https://garvin.netlify.app/posts/ethereum</guid>
     <title>About Ethereum Basic</title>
-    <link>https://lapidix.dev/posts/ethereum</link>
+    <link>https://garvin.netlify.app/posts/ethereum</link>
     <description>Ethereum에 대한 기본적인 것들을 정리해보았습니다. 🥲</description>
     <pubDate>Sat, 04 Jun 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Ethereum</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/bitcoin</guid>
+    <guid>https://garvin.netlify.app/posts/bitcoin</guid>
     <title>About Bitcoin Basic</title>
-    <link>https://lapidix.dev/posts/bitcoin</link>
+    <link>https://garvin.netlify.app/posts/bitcoin</link>
     <description>Satishi Nakamoto가 2009년 발표한 대표적인 Public BlockChain 시스템인 Bitcoin에 대해 알아봅니다!</description>
     <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Bitcoin</category><category>UTXO</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-data-structure-for-verification</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-data-structure-for-verification</guid>
     <title>About Bloom Filter, Merkle Tree, MPT</title>
-    <link>https://lapidix.dev/posts/cryptography-data-structure-for-verification</link>
+    <link>https://garvin.netlify.app/posts/cryptography-data-structure-for-verification</link>
     <description>블록체인에서의 데이터 검증을 위한 자료 구조들 Bloom-Filter, Merkle Tree, MPT에 대해 알아봅니다. 🤔</description>
     <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>Bloom-Filter</category><category>Merkle-Tree</category><category>MPT</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-digital-signature</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-digital-signature</guid>
     <title>RSA와 ECC 기반 디지털 서명 이해하기</title>
-    <link>https://lapidix.dev/posts/cryptography-digital-signature</link>
+    <link>https://garvin.netlify.app/posts/cryptography-digital-signature</link>
     <description>전자 문서의 데이터 무결성과 출처 증명을 위한 암호화 알고리즘인 Digital Signature에 대해 알아봅니다. 🤔</description>
     <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>Digital-Signature</category><category>RSA</category><category>ECC</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-hashing-and-encryption</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-hashing-and-encryption</guid>
     <title>What is Hashing And Encryption</title>
-    <link>https://lapidix.dev/posts/cryptography-hashing-and-encryption</link>
+    <link>https://garvin.netlify.app/posts/cryptography-hashing-and-encryption</link>
     <description>해싱과 암호화의 MDC</description>
     <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>Hashing</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-asymmetric-key</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-asymmetric-key</guid>
     <title>비대칭키 암호와 RSA, ECC</title>
-    <link>https://lapidix.dev/posts/cryptography-asymmetric-key</link>
+    <link>https://garvin.netlify.app/posts/cryptography-asymmetric-key</link>
     <description>비대칭키 암호와 RSA, ECC</description>
     <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>AsymmetricKey</category><category>RSA</category><category>ECC</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-mathematics-in-cryptography</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-mathematics-in-cryptography</guid>
     <title>암호학을 위한 수학적 기반 RSA 알고리즘</title>
-    <link>https://lapidix.dev/posts/cryptography-mathematics-in-cryptography</link>
+    <link>https://garvin.netlify.app/posts/cryptography-mathematics-in-cryptography</link>
     <description>유클리드 알고리즘, 오일러의 정리, Trapdoor, One-way Function와 암호학</description>
     <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-symmetric-key</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-symmetric-key</guid>
     <title>대칭키 암호와 암호화 기본 원리</title>
-    <link>https://lapidix.dev/posts/cryptography-symmetric-key</link>
+    <link>https://garvin.netlify.app/posts/cryptography-symmetric-key</link>
     <description>대칭키 암호의 원리와 대표 알고리즘(DES, AES), 전치 암호 방식을 이해하기 쉽게 정리해봅니다.</description>
     <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>SymmetricKey</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-modular</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-modular</guid>
     <title>What is Modular Arithmetic</title>
-    <link>https://lapidix.dev/posts/cryptography-modular</link>
+    <link>https://garvin.netlify.app/posts/cryptography-modular</link>
     <description>보안을 위한 세 가지 요소와 CIA</description>
     <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>modular</category>
   </item>
 

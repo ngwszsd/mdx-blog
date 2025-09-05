@@ -2,71 +2,71 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Lapidix Dev</title>
-      <link>https://lapidix.dev/blog</link>
-      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <link>https://garvin.netlify.app/blog</link>
+      <description>Technical blog by ngw covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
       <language>ko</language>
-      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
-      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <managingEditor>ngwszsd@qq.com (ngw)</managingEditor>
+      <webMaster>ngwszsd@qq.com (ngw)</webMaster>
       <lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://lapidix.dev/tags/cosmos-sdk/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://garvin.netlify.app/tags/cosmos-sdk/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-address</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-address</guid>
     <title>Cosmos Ecosystem의 Address</title>
-    <link>https://lapidix.dev/posts/cosmos-address</link>
+    <link>https://garvin.netlify.app/posts/cosmos-address</link>
     <description>Cosmos 생태계에서 사용하는 주소체계 및 주소를 변환하는 방법에 대해서 알아봅니다</description>
     <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos</category><category>Cosmos-network</category><category>Validator</category><category>COSMOS-SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-sdk-modules</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-sdk-modules</guid>
     <title>About Cosmos SDK &amp; Modules</title>
-    <link>https://lapidix.dev/posts/cosmos-sdk-modules</link>
+    <link>https://garvin.netlify.app/posts/cosmos-sdk-modules</link>
     <description>Cosmos SDK &amp; Modules에 대해 꾸역꾸역,.,,, 알아보자........😭😭</description>
     <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>Cosmos SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/ignite-blog-express-tutorial</guid>
+    <guid>https://garvin.netlify.app/posts/ignite-blog-express-tutorial</guid>
     <title>[Cosmos] Ignite CLI Tutorial (1)</title>
-    <link>https://lapidix.dev/posts/ignite-blog-express-tutorial</link>
+    <link>https://garvin.netlify.app/posts/ignite-blog-express-tutorial</link>
     <description>Ignite CLI Tutorial에 대한 첫 번째 내용 실습 및 정리 글입니다.</description>
     <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos</category><category>Ignite</category><category>Cosmos SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/ignite-blog-in-depth-tutorial</guid>
+    <guid>https://garvin.netlify.app/posts/ignite-blog-in-depth-tutorial</guid>
     <title>[Cosmos] Ignite CLI Tutorial (2)</title>
-    <link>https://lapidix.dev/posts/ignite-blog-in-depth-tutorial</link>
+    <link>https://garvin.netlify.app/posts/ignite-blog-in-depth-tutorial</link>
     <description>Ignite CLI Tutorial에 대한 두 번째 내용 실습 및 정리 글입니다.</description>
     <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos</category><category>Ignite</category><category>Cosmos SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/ignite-introduction</guid>
+    <guid>https://garvin.netlify.app/posts/ignite-introduction</guid>
     <title>[Cosmos] Ignite CLI Introduction</title>
-    <link>https://lapidix.dev/posts/ignite-introduction</link>
+    <link>https://garvin.netlify.app/posts/ignite-introduction</link>
     <description>Cosmos SDK를 기반으로 하는 블록체인을 위한 개발자 친화적인 CLI 플랫폼인 Ignite CLI에 대하여 알아보겠습니다.</description>
     <pubDate>Sun, 24 Dec 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos</category><category>Ignite</category><category>Cosmos SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/opstra-trouble-shooting</guid>
+    <guid>https://garvin.netlify.app/posts/opstra-trouble-shooting</guid>
     <title>CosmosSDK Testnet 구성 트러블슈팅</title>
-    <link>https://lapidix.dev/posts/opstra-trouble-shooting</link>
+    <link>https://garvin.netlify.app/posts/opstra-trouble-shooting</link>
     <description>Cosmos SDK를 이용한 커스텀 네트워크 프로젝트의 테스트 넷을 구성하는 과정에서 발생한 트러블 슈팅들과 해결과정을 정리해 보았습니다.</description>
     <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Validator</category><category>COSMOS-SDK</category><category>Trouble-shooting</category>
   </item>
 

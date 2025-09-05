@@ -2,21 +2,21 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Lapidix Dev</title>
-      <link>https://lapidix.dev/blog</link>
-      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <link>https://garvin.netlify.app/blog</link>
+      <description>Technical blog by ngw covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
       <language>ko</language>
-      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
-      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <managingEditor>ngwszsd@qq.com (ngw)</managingEditor>
+      <webMaster>ngwszsd@qq.com (ngw)</webMaster>
       <lastBuildDate>Tue, 15 Jul 2025 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://lapidix.dev/tags/fsd/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://garvin.netlify.app/tags/fsd/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://lapidix.dev/posts/fsd-ddd-clean-architecture</guid>
+    <guid>https://garvin.netlify.app/posts/fsd-ddd-clean-architecture</guid>
     <title>Frontend Clean Architecture (with FSD &amp; DDD)</title>
-    <link>https://lapidix.dev/posts/fsd-ddd-clean-architecture</link>
+    <link>https://garvin.netlify.app/posts/fsd-ddd-clean-architecture</link>
     <description>Frontend에서 FSD(Feature Sliced Design)와 DDD(Domain-Driven Design)를 적용하여 Clean Architecture를 구현하기 위한 방법에 대해서 알아봅니다.</description>
     <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Clean Architecture</category><category>Frontend</category><category>FSD</category><category>DDD</category>
   </item>
 

@@ -1,19 +1,13 @@
+// app/about/page.tsx
 import { allPages } from 'contentlayer/generated'
 import { useMDXComponent } from 'next-contentlayer/hooks'
 
-const AboutContentSection = () => {
-  // 找到 resume.mdx
-  const resume = allPages.find((p) => p._raw.sourceFileName === 'resume.mdx')
-
-  if (!resume) return <div>简历未找到</div>
-
-  const MDXContent = useMDXComponent(resume.body.code)
-
+export default function AboutPage() {
+  const about = allPages.find(p => p.slug === 'pages/about') ?? allPages[0]
+  const MDX = useMDXComponent(about.body.code)
   return (
-    <section className="prose dark:prose-invert max-w-3xl mx-auto p-4">
-      <MDXContent />
+    <section className="prose max-w-3xl mx-auto p-4">
+      <MDX />
     </section>
   )
 }
-
-export default AboutContentSection

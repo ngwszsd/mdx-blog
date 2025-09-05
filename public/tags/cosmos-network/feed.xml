@@ -2,81 +2,81 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Lapidix Dev</title>
-      <link>https://lapidix.dev/blog</link>
-      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <link>https://garvin.netlify.app/blog</link>
+      <description>Technical blog by ngw covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
       <language>ko</language>
-      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
-      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <managingEditor>ngwszsd@qq.com (ngw)</managingEditor>
+      <webMaster>ngwszsd@qq.com (ngw)</webMaster>
       <lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://lapidix.dev/tags/cosmos-network/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://garvin.netlify.app/tags/cosmos-network/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-address</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-address</guid>
     <title>Cosmos Ecosystem의 Address</title>
-    <link>https://lapidix.dev/posts/cosmos-address</link>
+    <link>https://garvin.netlify.app/posts/cosmos-address</link>
     <description>Cosmos 생태계에서 사용하는 주소체계 및 주소를 변환하는 방법에 대해서 알아봅니다</description>
     <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos</category><category>Cosmos-network</category><category>Validator</category><category>COSMOS-SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-cometbft</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-cometbft</guid>
     <title>What is CometBFT?</title>
-    <link>https://lapidix.dev/posts/cosmos-cometbft</link>
+    <link>https://garvin.netlify.app/posts/cosmos-cometbft</link>
     <description>CometBFT와 앞으로 Cosmos를 공부하면서 알아야한 개념 및 기술들에 대해 알아보았다 😏</description>
     <pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>CometBFT</category><category>gRPC</category><category>protobuf</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-intro</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-intro</guid>
     <title>What is Cosmos?</title>
-    <link>https://lapidix.dev/posts/cosmos-intro</link>
+    <link>https://garvin.netlify.app/posts/cosmos-intro</link>
     <description>AppChain과 AppChain 생태계 중 대표적인 Cosmos Ecosystem에 대하여</description>
     <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>CometBFT</category><category>IBC</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-join-test-network</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-join-test-network</guid>
     <title>Join the Test network With Archway</title>
-    <link>https://lapidix.dev/posts/cosmos-join-test-network</link>
+    <link>https://garvin.netlify.app/posts/cosmos-join-test-network</link>
     <description>Cosmos Network에 올라가있는 테스트 네트워크에 참여해봅니다 😀😀</description>
     <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>Archway</category><category>PingPub</category><category>Polkachu</category><category>Cosmos</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-run-a-node</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-run-a-node</guid>
     <title>Run a Node, API and CLI</title>
-    <link>https://lapidix.dev/posts/cosmos-run-a-node</link>
+    <link>https://garvin.netlify.app/posts/cosmos-run-a-node</link>
     <description>오늘은 Run a Node, API and CLI파트에 대해서 정리해 왔습니다!! :)</description>
     <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>Node CLI</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-sdk-modules</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-sdk-modules</guid>
     <title>About Cosmos SDK &amp; Modules</title>
-    <link>https://lapidix.dev/posts/cosmos-sdk-modules</link>
+    <link>https://garvin.netlify.app/posts/cosmos-sdk-modules</link>
     <description>Cosmos SDK &amp; Modules에 대해 꾸역꾸역,.,,, 알아보자........😭😭</description>
     <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>Cosmos SDK</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/ibc-relayer</guid>
+    <guid>https://garvin.netlify.app/posts/ibc-relayer</guid>
     <title>IBC Relayer</title>
-    <link>https://lapidix.dev/posts/ibc-relayer</link>
+    <link>https://garvin.netlify.app/posts/ibc-relayer</link>
     <description>AppChain과 AppChain 생태계 중 대표적인 Cosmos Ecosystem에 대하여</description>
     <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>CometBFT</category><category>IBC</category><category>Hermes</category><category>Relayer</category>
   </item>
 

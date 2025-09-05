@@ -2,21 +2,21 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Lapidix Dev</title>
-      <link>https://lapidix.dev/blog</link>
-      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <link>https://garvin.netlify.app/blog</link>
+      <description>Technical blog by ngw covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
       <language>ko</language>
-      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
-      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <managingEditor>ngwszsd@qq.com (ngw)</managingEditor>
+      <webMaster>ngwszsd@qq.com (ngw)</webMaster>
       <lastBuildDate>Mon, 20 Nov 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://lapidix.dev/tags/pingpub/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://garvin.netlify.app/tags/pingpub/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://lapidix.dev/posts/cosmos-join-test-network</guid>
+    <guid>https://garvin.netlify.app/posts/cosmos-join-test-network</guid>
     <title>Join the Test network With Archway</title>
-    <link>https://lapidix.dev/posts/cosmos-join-test-network</link>
+    <link>https://garvin.netlify.app/posts/cosmos-join-test-network</link>
     <description>Cosmos Network에 올라가있는 테스트 네트워크에 참여해봅니다 😀😀</description>
     <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cosmos-network</category><category>Archway</category><category>PingPub</category><category>Polkachu</category><category>Cosmos</category>
   </item>
 

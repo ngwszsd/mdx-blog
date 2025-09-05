@@ -2,81 +2,81 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Lapidix Dev</title>
-      <link>https://lapidix.dev/blog</link>
-      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <link>https://garvin.netlify.app/blog</link>
+      <description>Technical blog by ngw covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
       <language>ko</language>
-      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
-      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <managingEditor>ngwszsd@qq.com (ngw)</managingEditor>
+      <webMaster>ngwszsd@qq.com (ngw)</webMaster>
       <lastBuildDate>Wed, 27 Apr 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://lapidix.dev/tags/cryptography/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://garvin.netlify.app/tags/cryptography/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-asymmetric-key</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-asymmetric-key</guid>
     <title>비대칭키 암호와 RSA, ECC</title>
-    <link>https://lapidix.dev/posts/cryptography-asymmetric-key</link>
+    <link>https://garvin.netlify.app/posts/cryptography-asymmetric-key</link>
     <description>비대칭키 암호와 RSA, ECC</description>
     <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>AsymmetricKey</category><category>RSA</category><category>ECC</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-data-structure-for-verification</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-data-structure-for-verification</guid>
     <title>About Bloom Filter, Merkle Tree, MPT</title>
-    <link>https://lapidix.dev/posts/cryptography-data-structure-for-verification</link>
+    <link>https://garvin.netlify.app/posts/cryptography-data-structure-for-verification</link>
     <description>블록체인에서의 데이터 검증을 위한 자료 구조들 Bloom-Filter, Merkle Tree, MPT에 대해 알아봅니다. 🤔</description>
     <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>Bloom-Filter</category><category>Merkle-Tree</category><category>MPT</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-digital-signature</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-digital-signature</guid>
     <title>RSA와 ECC 기반 디지털 서명 이해하기</title>
-    <link>https://lapidix.dev/posts/cryptography-digital-signature</link>
+    <link>https://garvin.netlify.app/posts/cryptography-digital-signature</link>
     <description>전자 문서의 데이터 무결성과 출처 증명을 위한 암호화 알고리즘인 Digital Signature에 대해 알아봅니다. 🤔</description>
     <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>Digital-Signature</category><category>RSA</category><category>ECC</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-hashing-and-encryption</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-hashing-and-encryption</guid>
     <title>What is Hashing And Encryption</title>
-    <link>https://lapidix.dev/posts/cryptography-hashing-and-encryption</link>
+    <link>https://garvin.netlify.app/posts/cryptography-hashing-and-encryption</link>
     <description>해싱과 암호화의 MDC</description>
     <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>Hashing</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-mathematics-in-cryptography</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-mathematics-in-cryptography</guid>
     <title>암호학을 위한 수학적 기반 RSA 알고리즘</title>
-    <link>https://lapidix.dev/posts/cryptography-mathematics-in-cryptography</link>
+    <link>https://garvin.netlify.app/posts/cryptography-mathematics-in-cryptography</link>
     <description>유클리드 알고리즘, 오일러의 정리, Trapdoor, One-way Function와 암호학</description>
     <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-modular</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-modular</guid>
     <title>What is Modular Arithmetic</title>
-    <link>https://lapidix.dev/posts/cryptography-modular</link>
+    <link>https://garvin.netlify.app/posts/cryptography-modular</link>
     <description>보안을 위한 세 가지 요소와 CIA</description>
     <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>modular</category>
   </item>
 
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-symmetric-key</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-symmetric-key</guid>
     <title>대칭키 암호와 암호화 기본 원리</title>
-    <link>https://lapidix.dev/posts/cryptography-symmetric-key</link>
+    <link>https://garvin.netlify.app/posts/cryptography-symmetric-key</link>
     <description>대칭키 암호의 원리와 대표 알고리즘(DES, AES), 전치 암호 방식을 이해하기 쉽게 정리해봅니다.</description>
     <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>SymmetricKey</category>
   </item>
 

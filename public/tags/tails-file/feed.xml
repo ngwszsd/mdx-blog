@@ -2,21 +2,21 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Lapidix Dev</title>
-      <link>https://lapidix.dev/blog</link>
-      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <link>https://garvin.netlify.app/blog</link>
+      <description>Technical blog by ngw covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
       <language>ko</language>
-      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
-      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <managingEditor>ngwszsd@qq.com (ngw)</managingEditor>
+      <webMaster>ngwszsd@qq.com (ngw)</webMaster>
       <lastBuildDate>Fri, 26 May 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://lapidix.dev/tags/tails-file/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://garvin.netlify.app/tags/tails-file/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://lapidix.dev/posts/apply-hyperledger-indy-tails-server</guid>
+    <guid>https://garvin.netlify.app/posts/apply-hyperledger-indy-tails-server</guid>
     <title>Apply Hyperledger Indy Tails Server</title>
-    <link>https://lapidix.dev/posts/apply-hyperledger-indy-tails-server</link>
+    <link>https://garvin.netlify.app/posts/apply-hyperledger-indy-tails-server</link>
     <description>Hyperledger Indy Tails Server를 사용하여 revocation registry delta(회수 레지스트리 델타)의 크기를 줄이는 데 도움이 되는 기능을 사용해봅니다.</description>
     <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>HyperLedger</category><category>Indy</category><category>DID</category><category>Tails file</category>
   </item>
 

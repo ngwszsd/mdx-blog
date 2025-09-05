@@ -7,7 +7,7 @@ const siteMetadata = {
   language: 'zh',
   locale: 'zh-CN',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://lapidix.dev',
+  siteUrl: 'https://garvin.netlify.app',
   siteRepo: 'https://github.com/lapidix/blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/banner.jpeg',

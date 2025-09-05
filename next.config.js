@@ -122,7 +122,7 @@ module.exports = () => {
               value: 'min71.dev',
             },
           ],
-          destination: 'https://lapidix.dev/:path*',
+          destination: 'https://garvin.netlify.app/:path*',
           permanent: true,
         },
       ]

@@ -2,21 +2,21 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Lapidix Dev</title>
-      <link>https://lapidix.dev/blog</link>
-      <description>Technical blog by Lee MinGi covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
+      <link>https://garvin.netlify.app/blog</link>
+      <description>Technical blog by ngw covering Cosmos blockchain development, modern web technologies, and software engineering best practices.</description>
       <language>ko</language>
-      <managingEditor>mingi3442@gmail.com (Lee MinGi)</managingEditor>
-      <webMaster>mingi3442@gmail.com (Lee MinGi)</webMaster>
+      <managingEditor>ngwszsd@qq.com (ngw)</managingEditor>
+      <webMaster>ngwszsd@qq.com (ngw)</webMaster>
       <lastBuildDate>Fri, 22 Apr 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://lapidix.dev/tags/symmetrickey/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://garvin.netlify.app/tags/symmetrickey/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://lapidix.dev/posts/cryptography-symmetric-key</guid>
+    <guid>https://garvin.netlify.app/posts/cryptography-symmetric-key</guid>
     <title>대칭키 암호와 암호화 기본 원리</title>
-    <link>https://lapidix.dev/posts/cryptography-symmetric-key</link>
+    <link>https://garvin.netlify.app/posts/cryptography-symmetric-key</link>
     <description>대칭키 암호의 원리와 대표 알고리즘(DES, AES), 전치 암호 방식을 이해하기 쉽게 정리해봅니다.</description>
     <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
-    <author>mingi3442@gmail.com (Lee MinGi)</author>
+    <author>ngwszsd@qq.com (ngw)</author>
     <category>Cryptography</category><category>SymmetricKey</category>
   </item>
 
