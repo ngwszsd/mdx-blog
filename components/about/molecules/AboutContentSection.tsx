@@ -1,12 +1,20 @@
-import { ENGLISH_CONTENT, KOREAN_CONTENT } from '@/data/about'
-import AboutContents from '../atoms/AboutContents'
+// app/about/page.tsx （Next.js App Router 写法）
+import { allPages } from 'contentlayer/generated'
+import { useMDXComponent } from 'next-contentlayer/hooks'
 
-const AboutContentSection = ({ lang }: { lang: 'ko' | 'en' }) => {
+export default function AboutPage() {
+  // 找到 frontmatter.title = "我的简历" 的那篇
+  const resume = allPages.find((p) => p.title.includes('简历'))
+
+  if (!resume) {
+    return <div>简历内容未找到</div>
+  }
+
+  const MDXContent = useMDXComponent(resume.body.code)
+
   return (
-    <section className="p-4">
-      <AboutContents contents={lang === 'ko' ? KOREAN_CONTENT : ENGLISH_CONTENT} />
+    <section className="prose dark:prose-invert max-w-3xl mx-auto p-4">
+      <MDXContent />
     </section>
   )
 }
-
-export default AboutContentSection
