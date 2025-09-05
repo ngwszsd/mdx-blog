@@ -1,30 +1,19 @@
-'use client'
-import * as React from 'react'
-import { TranslateButton } from '../../common/atoms/TranslateButton'
-import AboutContentSection from '../molecules/AboutContentSection'
+import { allPages } from 'contentlayer/generated'
+import { useMDXComponent } from 'next-contentlayer/hooks'
 
-export default function AboutContainer() {
-  const [language, setLanguage] = React.useState<'ko' | 'en'>('ko')
+const AboutContentSection = () => {
+  // 找到 resume.mdx
+  const resume = allPages.find((p) => p._raw.sourceFileName === 'resume.mdx')
 
-  React.useEffect(() => {
-    setLanguage(localStorage.getItem('lang') === 'en' ? 'en' : 'ko')
-  }, [])
+  if (!resume) return <div>简历未找到</div>
 
-  React.useEffect(() => {
-    localStorage.setItem('lang', language)
-  }, [language])
-
-  const handleLanguageChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    const newLanguage = event.target.value as 'ko' | 'en'
-    setLanguage(newLanguage)
-  }
+  const MDXContent = useMDXComponent(resume.body.code)
 
   return (
-    <div>
-      <div className="flex items-center justify-end">
-        <TranslateButton value={language} onChange={handleLanguageChange} />
-      </div>
-      <AboutContentSection lang={language} />
-    </div>
+    <section className="prose dark:prose-invert max-w-3xl mx-auto p-4">
+      <MDXContent />
+    </section>
   )
 }
+
+export default AboutContentSection
